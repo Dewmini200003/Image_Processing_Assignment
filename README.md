@@ -47,6 +47,7 @@ Annotated images will be saved to the output/ directory. Each detected biscuit w
 •	A text label indicating the classification result
 # Example Output Images
 Circular
-
+![Example biscuit image](annotated_circular.jpg)
 Rectangular
+![Example biscuit image](annotated_rectangular1.jpg)
 
